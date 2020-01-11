@@ -10,10 +10,10 @@
     "sprite": "gulp sprite",
     "images": "gulp images"
   },
-"devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
-    "autoprefixer": "^9.1.5",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "autoprefixer": "^9.7.3",
     "browser-sync": "^2.26.7",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
@@ -23,15 +23,15 @@
     "gulp-group-css-media-queries": "^1.2.2",
     "gulp-htmlmin": "^5.0.1",
     "gulp-imagemin": "^4.1.0",
-    "gulp-plumber": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-rigger": "^0.5.8",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^4.0.2",
     "gulp-stylelint": "^7.0.0",
-    "gulp-svgstore": "^7.0.0",
-    "gulp-uglify": "^3.0.1",
+    "gulp-svgstore": "^7.0.1",
+    "gulp-uglify": "^3.0.2",
     "run-sequence": "^2.2.1",
-    "stylelint": "^9.6.0"
+    "stylelint": "^9.10.1"
   }
 }
